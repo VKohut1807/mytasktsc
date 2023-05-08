@@ -1,4 +1,5 @@
 # mytasktsc
+![gg9804768227](https://user-images.githubusercontent.com/48514587/236924801-8aab9cc1-51bd-4ce2-bb09-a125ba567c69.gif)
 
 ## Project setup
 ```
